@@ -1,0 +1,19 @@
+{
+  "name": "mkdirpsync",
+  "version": "0.0.1",
+  "description": "A Node.js module to emulate Bash's mkdir -p based on fs.mkdirSync",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neuromobile/node-mkdirpsync.git"
+  },
+  "author": "Ignacio García Soblechero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neuromobile/node-mkdirpsync/issues"
+  },
+  "homepage": "https://github.com/Neuromobile/node-mkdirpsync#readme"
+}
